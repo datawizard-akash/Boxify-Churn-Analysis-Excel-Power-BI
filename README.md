@@ -1,19 +1,19 @@
 # Boxify-Churn-Analysis-Excel-Power-BI
 Boxify is an online subscription box service delivering monthly lifestyle products. Over the past year, the company has observed a rise in customer churn subscribers canceling before completing 6 months. Management wants to understand why customers leave and take action to improve 
 
-# 2.Project Objective
+## 2.Project Objective
 The analysis focuses on the following business objective:
-•	Reduce churn rate by 5–10% over the next 6 months.
-•	Identifying high-risk customer segments.
-•	Recommend strategies to retain subscribers and increase loyalty.
-3. Dataset Description.
-•	Source of data – Kaggle.com
-•	Time Period – 2023-2025
-•	Rows – 1,200
-•	Columns – 11 (customer_id,join_date,cancel_date,age,gender,location,subscription_type,total_spent,boxes_received,engagement_score,	payment_mode)
+* •	Reduce churn rate by 5–10% over the next 6 months.
+* •	Identifying high-risk customer segments.
+* •	Recommend strategies to retain subscribers and increase loyalty.
+# 3. Dataset Description.
+* •	Source of data – Kaggle.com
+* •	Time Period – 2023-2025
+* •	Rows – 1,200
+* •	Columns – 11 (customer_id,join_date,cancel_date,age,gender,location,subscription_type,total_spent,boxes_received,engagement_score,	payment_mode)
 
 
-# 4. Tools Used.
+## 4. Tools Used.
 •	Microsoft Excel - Initial data exploration and validation.
 •	Power BI – Data modelling, DAX measures, and interactive dashboard creation.
 5. Data Cleaning & Preparation.
@@ -22,7 +22,7 @@ The analysis focuses on the following business objective:
 •	Visualization: Designed an interactive dashboard showing Churn by age group, Active customer by age group, Churn by gender, Total customers and Churn rate by age group, Active and Inactive customers, Average CLV Active vs Inactive customers.
 •	Insight Generation: Interpreted the visualisations to answer business questions and
 create recommendations. 
-# 6. Key Insight.
+## 6. Key Insight.
 •	Overall Churn Performance: The dashboard shows that the company has lost 216 customers, resulting in an 18% churn rate. Despite this loss, the business generated a total revenue of ₹15M. The average tenure of churned customers is 7.09 months, indicating that customers stay for a considerable period before leaving. This provides a reasonable window for improving engagement and implementing retention strategies before customers decide to churn.
 •	Churn Distribution by Age Group: The churn analysis reveals that senior customers account for the highest share of churn at 36.11%, followed closely by mid-age customers at 35.65%. Young customers contribute 28.24% of total churn. Since the senior and mid-age groups together represent more than 70% of churn, they appear to be the most vulnerable segments. Focusing on improving satisfaction and value for these age groups may significantly reduce overall churn.
 •	Gender-Based Churn Patterns
@@ -32,7 +32,7 @@ The gender breakdown shows that female customers experience slightly higher chur
 The combined view of total customers and churn rate shows that senior and mid-age customers not only represent large portions of the total customer base but also face churn rates close to 18 percent. In contrast, the young segment shows a slightly lower churn rate. This indicates that although older segments have strong representation, they remain at higher risk of leaving. Enhancing the experience and value proposition for these groups could help stabilize churn and improve overall retention.
  
 
-# 7. Recommendation.
+## 7. Recommendation.
 •	Strengthen Retention Efforts for Senior and Mid-Age Customers
 Since these two age groups account for over 70% of total churn, targeted retention programs should be designed specifically for them. This may include personalized communication, loyalty-based rewards, simplified product offerings, or dedicated customer support to address their needs and concerns. Improving the experience for these groups is likely to make the largest impact on reducing churn.
 •	Investigate and Improve Female Customer Experience
@@ -46,5 +46,5 @@ Since active customers generate more than double the lifetime value of inactive 
 •	Implement Data-Driven Personalization Across Customer Segments
 Using the behavioural and demographic insights captured in the dashboard, the company can implement more personalized customer journeys. Tailoring offers, communication styles, and product recommendations based on age, gender, and location can significantly enhance user experience and improve retention outcomes across all segments.
 
-# 8. Conclusion.
+## 8. Conclusion.
 The churn analysis reveals that while the company maintains strong revenue performance, customer retention remains a critical area of improvement. Higher churn among senior, mid-age, and female customers, along with inactive clusters in specific cities, highlights the need for targeted engagement efforts. Strengthening early-stage interaction, improving customer experience in high-risk segments, and leveraging CLV insights can significantly reduce churn and enhance long-term profitability. Overall, focused retention strategies will not only stabilize the customer base but also unlock substantial growth potential for the business.
