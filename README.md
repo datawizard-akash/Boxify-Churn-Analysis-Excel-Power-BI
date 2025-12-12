@@ -6,7 +6,7 @@ The analysis focuses on the following business objective:
 * •	Reduce churn rate by 5–10% over the next 6 months.
 * •	Identifying high-risk customer segments.
 * •	Recommend strategies to retain subscribers and increase loyalty.
-# 3. Dataset Description.
+## 3. Dataset Description.
 * •	Source of data – Kaggle.com
 * •	Time Period – 2023-2025
 * •	Rows – 1,200
